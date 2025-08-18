@@ -1,0 +1,44 @@
+VOICES = [
+    {
+        "id": "zh-CN-XiaoxiaoNeural",
+        "name": "Xiaoxiao",
+        "gender": "女声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    },
+    {
+        "id": "zh-CN-XiaoyiNeural",
+        "name": "Xiaoyi",
+        "gender": "女声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    },
+    {
+        "id": "zh-CN-YunjianNeural",
+        "name": "Yunjian",
+        "gender": "男声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    },
+    {
+        "id": "zh-CN-YunxiNeural",
+        "name": "Yunxi",
+        "gender": "男声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    },
+    {
+        "id": "zh-CN-YunxiaNeural",
+        "name": "Yunxia",
+        "gender": "男声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    },
+    {
+        "id": "zh-CN-YunyangNeural",
+        "name": "Yunyang",
+        "gender": "男声",
+        "language": "中文(普通话，简体)",
+        "description": "普通话，简体"
+    }
+]
